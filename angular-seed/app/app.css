@@ -1,0 +1,15 @@
+/* app css stylesheet */
+li {
+    font-size: large;
+}
+
+panel-heading {
+   font-size: x-large; 
+}
+thead {
+    color: #337AB7;
+    /*color:#36009b;*/
+}
+tbody {
+    color: #404040;
+}
